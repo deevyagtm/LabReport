@@ -1,0 +1,3 @@
+Hello World
+This is Lab 3
+File Handling in Python
