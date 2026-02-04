@@ -33,7 +33,7 @@ This lab introduces basic Python concepts such as data types, control structures
    Converts Celsius temperature into Fahrenheit or Kelvin based on user choice.
 
 10. Advanced programs:
-    - [Birth year and leap year check](leap_year.py)  (main.py) (basic.py)
+    - [Birth year and leap year check](leap_year.py)
       Calculates birth year from age and verifies if it was a leap year.
     - [BMI calculator](bmi_calculate.py)  
       Computes BMI using flexible height and weight units and classifies the result.
